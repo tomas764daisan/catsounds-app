@@ -1,0 +1,21 @@
+{
+  "name": "CatSounds App",
+  "short_name": "CatSounds",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#ff6b81",
+  "description": "A playful React app to explore and track cat sounds.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
