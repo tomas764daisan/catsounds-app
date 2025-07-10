@@ -1,0 +1,20 @@
+## 📁 Project Structure
+
+```bash
+catsounds-app/
+├── public/
+│   ├── index.html          # Main HTML file
+│   └── manifest.json       # App manifest
+│
+├── src/
+│   ├── App.js              # Root component
+│   ├── App.css             # Global styles
+│   ├── App.test.js         # Unit tests
+│   ├── index/              # Entry point
+│   │   ├── index.js
+│   │   └── index.css
+│   └── components/         # Reusable components
+│       ├── ExpenseForm.*   # Form for input
+│       ├── ExpenseList.*   # List display
+│       ├── Header.*        # Top navigation/header
+│       └── Receipt.*       # Receipt-style output
