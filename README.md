@@ -33,7 +33,7 @@ CatSounds App is a fun and interactive web app designed for cat lovers! This app
 **Email:** 
 **Website:** 
 
-*Nikhil Parmar is a seasoned full-stack developer with a passion for clean code and purring UIs. With over 7 years of experience, Nikhil mentors young coders and contributes to several open-source projects.*
+*is a seasoned full-stack developer with a passion for clean code and purring UIs. With over 7 years of experience,  mentors young coders and contributes to several open-source projects.*
 
 ## 🏁 Getting Started
 
