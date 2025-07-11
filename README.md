@@ -29,9 +29,9 @@ CatSounds App is a fun and interactive web app designed for cat lovers! This app
 
 ## 👤 Author
 
-**Name:** 
-**Email:** 
-**Website:** 
+**Name:** tomas
+**Email:** tomas764daisan@outlook.com
+**Website:** [catsounds app](https://www.catsounds.me)
 
 *is a seasoned full-stack developer with a passion for clean code and purring UIs. With over 7 years of experience,  mentors young coders and contributes to several open-source projects.*
 
